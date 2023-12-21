@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBOJ8pkGl0V5qCe_581H9whtmOvb62gzms</string>
+	<key>GCM_SENDER_ID</key>
+	<string>673872379502</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.hellowWord.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-formation-c0c0c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-formation-c0c0c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:673872379502:ios:8b8788d3b32236f516707f</string>
+</dict>
+</plist>
